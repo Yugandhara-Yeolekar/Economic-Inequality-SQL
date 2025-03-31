@@ -40,7 +40,8 @@ The analysis was performed using SQL, focusing on data cleaning and exploratory 
 
 The results of this analysis have been visualized in an interactive **Tableau dashboard**. You can explore the visual representation of this data here:
 
-**Tableau Dashboard**: [Economic Inequality Dashboard](https://public.tableau.com/app/profile/yugandhara.yeolekar/viz/EconomicInequality/EconomicInequality)
+- **Tableau Dashboard**: [Dashboard](https://public.tableau.com/app/profile/yugandhara.yeolekar/viz/EconomicInequality/EconomicInequality)
+- **GitHub Repository for Tableau Project**: [Source Code](https://github.com/Yugandhara-Yeolekar/Economic-Inequality-Tableau)
 
 ## 🔍 Key Findings / Insights
 *The insights presented below are based on data from the year 2022.*
